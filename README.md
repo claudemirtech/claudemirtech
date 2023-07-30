@@ -1,9 +1,9 @@
 # 👋 Olá, sou o Claudemir!
 
-Especialista em Gestão da Tecnologia da Informação (2016) (Linha de pesquisa Segurança da Informação) pelo Centro Universitário do Sul de Minas, UNIS/MG. É Bacharel (2014) em Ciência da Computação pelo Centro Universitário de Formiga, UNIFOR/MG. Atualmente é Desenvolvedor Sênior Full Stack, Tech Lead na **[Softplan](https://www.softplan.com.br/)**. Possui mais de 10 anos de experiência atuando em grandes corporações nos mais diversos tipos de projetos de desenvolvimento de software, de banco de dados e de análise de dados. Atua nas áreas de desenvolvimento de software, gestão de dados, engenharia de software, business intelligence, ciência de dados.
+Especialista em Gestão da Tecnologia da Informação (2016) (Linha de pesquisa Segurança da Informação) pelo Centro Universitário do Sul de Minas, UNIS/MG. Bacharel (2014) em Ciência da Computação pelo Centro Universitário de Formiga, UNIFOR/MG. Atualmente Desenvolvedor Sênior Full Stack, Tech Lead na **[Softplan](https://www.softplan.com.br/)**. Possuo mais de 10 anos de experiência atuando em grandes corporações nos mais diversos tipos de projetos de desenvolvimento de software, de banco de dados e de análise de dados. Atuo nas áreas de desenvolvimento de software, gestão de dados, engenharia de software, business intelligence e ciência de dados.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/claudemir-pinto-43a027104/)](https://br.linkedin.com/in/claudemir-pinto-43a027104)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiostefani@gmail.com)](mailto:claudemir@bsd.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/claudemirtech/)](https://br.linkedin.com/in/claudemirtech/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudemir@bsd.com.br)](mailto:claudemir@bsd.com.br)
 
 ## 🚀💻 Tecnologias e Ferramentas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
